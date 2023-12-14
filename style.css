@@ -1,0 +1,56 @@
+.pink{
+  color: pink;
+}
+
+.gray{
+  color:grey
+}
+
+.red{
+  color: red;
+}
+
+.green{
+  color: green;
+}
+
+.yellow{
+  color: yellow;
+}
+
+.li:hover:nth-child(-n+3){
+  color: aqua;
+}
+
+.li:last-child{
+  color: wheat;
+}
+
+.li:nth-child(12){
+  color: violet;
+}
+
+.li:nth-child(even){
+  color: teal;
+}
+
+.li:nth-child(5n){
+  color: blueviolet;
+}
+
+.li:disabled:nth-child(10){
+  color: yellow;
+}
+
+.li:hover:nth-child(20){
+  color: red;
+}
+
+.li:focus:nth-child(23){
+  color: black;
+}
+
+
+
+
+
